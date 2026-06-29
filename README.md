@@ -13,3 +13,5 @@ Whether analyzing on-court efficiency in Basketball, tactical formations in Foot
 * **Data Gathering:** Web scraping and API integrations (e.g., StatsBomb, NBA API).
 * **Analysis & Modeling:** Python (Pandas, NumPy, Scikit-learn) / R.
 * **Visualization:** Matplotlib, Seaborn, Tableau, and interactive dashboard tools.
+
+by @viniciudev
