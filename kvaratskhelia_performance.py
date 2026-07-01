@@ -12,3 +12,9 @@ metricas = [
 # Notas visuais de desempenho (Escala 0 a 100 baseada em scouts europeus)
 valores_grafico = [85, 92, 88]  
 
+# Dados reais detalhados para aparecerem na legenda interativa (hover)
+valores_reais = [
+    "85% de eficiência", 
+    "34.8 km/h de pico", 
+    "0.75 xG+xA por jogo"
+]
