@@ -66,3 +66,4 @@ fig.update_layout(
 )
 # 4. Executar e exibir o gráfico no navegador
 if __name__ == '__main__':
+    print("Gerando gráfico de desempenho...")
