@@ -13,3 +13,9 @@ metricas = [
 # Haaland se destaca absurdamente em finalização e velocidade, tendo menos participação na posse.
 valores_grafico = [65, 95, 98]  
 
+# Dados reais detalhados que aparecem ao passar o mouse
+valores_reais = [
+    "Poucos toques (Geralmente < 25 por jogo)", 
+    "36.2 km/h de pico", 
+    "0.98 xG (Chances claras por jogo)"
+]
