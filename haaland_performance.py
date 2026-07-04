@@ -9,3 +9,7 @@ metricas = [
     'Chances de Gol<br>(Gols Esperados - xG)'
 ]
 
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados reais da Premier League)
+# Haaland se destaca absurdamente em finalização e velocidade, tendo menos participação na posse.
+valores_grafico = [65, 95, 98]  
+
