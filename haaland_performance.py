@@ -19,3 +19,6 @@ valores_reais = [
     "36.2 km/h de pico", 
     "0.98 xG (Chances claras por jogo)"
 ]
+
+# Fechando o circuito do gráfico de radar (repetindo o primeiro item)
+metricas_fechadas = metricas + [metricas[0]]
