@@ -34,5 +34,7 @@ fig.add_trace(go.Scatterpolar(
     fill='toself',
     fillcolor='rgba(106, 90, 205, 0.4)',  # Cor personalizada para destaque
     line=dict(color='mediumslateblue', width=2),
-    
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Erling Haaland'
 ))
