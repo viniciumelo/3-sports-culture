@@ -31,5 +31,8 @@ fig = go.Figure()
 fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
+    fill='toself',
+    fillcolor='rgba(106, 90, 205, 0.4)',  # Cor personalizada para destaque
+    line=dict(color='mediumslateblue', width=2),
     
 ))
