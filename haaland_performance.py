@@ -38,3 +38,29 @@ fig.add_trace(go.Scatterpolar(
     hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
     name='Erling Haaland'
 ))
+# 3. Estilização do Layout do Sistema de Analytics
+fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Erling Haaland",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    ),
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 100],
+            gridcolor="rgba(255, 255, 255, 0.2)",
+            tickfont=dict(color="rgba(255, 255, 255, 0.7)")
+        ),
+        angularaxis=dict(
+            gridcolor="rgba(255, 255, 255, 0.3)",
+            tickfont=dict(size=12, color='white')
+        ),
+        bgcolor='rgb(15, 18, 26)' # Fundo escuro estilo dashboard profissional
+    ),
+    paper_bgcolor='rgb(15, 18, 26)',
+    showlegend=False,
+    width=700,
+    height=600
+)
