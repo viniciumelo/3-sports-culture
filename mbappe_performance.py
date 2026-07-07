@@ -8,3 +8,8 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração/Sprints)', 
     'Chances de Gol<br>(Finalizações e xG)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de ligas europeias)
+# Mbappé possui números extremos em velocidade e criação/finalização de chances.
+valores_grafico = [88, 99, 94]  
+
