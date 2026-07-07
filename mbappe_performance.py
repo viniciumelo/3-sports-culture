@@ -13,3 +13,9 @@ metricas = [
 # Mbappé possui números extremos em velocidade e criação/finalização de chances.
 valores_grafico = [88, 99, 94]  
 
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta retenção (Média de 4.8 dribles p/ jogo)", 
+    "38.0 km/h de pico (Elite mundial)", 
+    "0.89 xG+xA (Participação direta constante)"
+]
