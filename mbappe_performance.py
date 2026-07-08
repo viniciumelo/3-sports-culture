@@ -34,4 +34,7 @@ fig.add_trace(go.Scatterpolar(
     fill='toself',
     fillcolor='rgba(220, 20, 60, 0.3)',  # Tom avermelhado escuro para contraste
     line=dict(color='crimson', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Kylian Mbappé'
 ))
