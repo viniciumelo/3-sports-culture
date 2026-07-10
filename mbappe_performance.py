@@ -68,3 +68,4 @@ fig.update_layout(
 
 # 4. Execução do script
 if __name__ == '__main__':
+    print("Gerando gráfico de desempenho do Mbappé...")
