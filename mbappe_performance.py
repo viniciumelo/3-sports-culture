@@ -60,4 +60,9 @@ fig.update_layout(
         ),
         bgcolor='rgb(21, 23, 30)' # Fundo escuro profissional
     ),
-   
+    paper_bgcolor='rgb(21, 23, 30)',
+    showlegend=False,
+    width=700,
+    height=600
+)
+
