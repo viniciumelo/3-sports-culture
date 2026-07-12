@@ -8,3 +8,8 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração/Deslocamento)', 
     'Chances de Gol<br>(Finalizações e Assistências)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados históricos da Bundesliga/Premier League)
+# Kane pontua muito alto em participação na posse e criação/conversão de chances, com nota moderada em velocidade.
+valores_grafico = [86, 74, 96]  
+
