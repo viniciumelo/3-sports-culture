@@ -13,3 +13,9 @@ metricas = [
 # Kane pontua muito alto em participação na posse e criação/conversão de chances, com nota moderada em velocidade.
 valores_grafico = [86, 74, 96]  
 
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Excelente retenção (Média de 42 toques por jogo)", 
+    "32.1 km/h de pico (Foco em posicionamento)", 
+    "0.92 xG+xA (Armador e finalizador de elite)"
+]
