@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração Curta)', 
     'Chances de Gol<br>(Gols, Assistências e Key Passes)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos globais)
+# Messi pontua no teto histórico em posse/construção e criação de chances, com nota moderada em velocidade de sprint longo.
+valores_grafico = [98, 70, 97]
