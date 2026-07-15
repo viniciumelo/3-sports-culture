@@ -12,3 +12,10 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos globais)
 # Messi pontua no teto histórico em posse/construção e criação de chances, com nota moderada em velocidade de sprint longo.
 valores_grafico = [98, 70, 97]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção de elite (Média de 65+ toques estruturando o jogo)", 
+   
+]
+
