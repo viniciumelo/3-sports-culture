@@ -20,3 +20,5 @@ valores_reais = [
     "1.05 xG+xA (Líder mundial em passes que quebram linhas)"
 ]
 
+# Fechando o circuito do gráfico de radar (repetindo o primeiro item)
+metricas_fechadas = metricas + [metricas[0]]
