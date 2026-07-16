@@ -39,3 +39,29 @@ fig.add_trace(go.Scatterpolar(
     name='Lionel Messi'
 ))
 
+# 3. Estilização do Layout do Dashboard
+fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Lionel Messi",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    ),
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 100],
+            gridcolor="rgba(255, 255, 255, 0.2)",
+            tickfont=dict(color="rgba(255, 255, 255, 0.7)")
+        ),
+        angularaxis=dict(
+            gridcolor="rgba(255, 255, 255, 0.3)",
+            tickfont=dict(size=12, color='white')
+        ),
+        bgcolor='rgb(16, 20, 26)' # Fundo escuro profissional focado em dados
+    ),
+    paper_bgcolor='rgb(16, 20, 26)',
+    showlegend=False,
+    width=700,
+    height=600
+)
