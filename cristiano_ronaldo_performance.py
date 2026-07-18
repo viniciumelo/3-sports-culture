@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração/Sprints)', 
     'Chances de Gol<br>(Gols Esperados - xG e Volume)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada no perfil analítico do jogador)
+# CR7 pontua no topo histórico em finalização e volume de chances, mantendo boa velocidade e menor retenção de bola.
+valores_grafico = [68, 88, 97]
