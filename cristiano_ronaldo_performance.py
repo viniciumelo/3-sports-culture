@@ -16,5 +16,6 @@ valores_grafico = [68, 88, 97]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Foco em definição (Poucos toques, alta eficiência)", 
-   
+    "34.2 km/h de pico (Sprints verticais)", 
+    "0.95 xG (Volume extremo de finalizações)"
 ]
