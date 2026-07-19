@@ -12,3 +12,9 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada no perfil analítico do jogador)
 # CR7 pontua no topo histórico em finalização e volume de chances, mantendo boa velocidade e menor retenção de bola.
 valores_grafico = [68, 88, 97]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Foco em definição (Poucos toques, alta eficiência)", 
+   
+]
