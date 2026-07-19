@@ -19,3 +19,6 @@ valores_reais = [
     "34.2 km/h de pico (Sprints verticais)", 
     "0.95 xG (Volume extremo de finalizações)"
 ]
+
+# Fechando o circuito do gráfico de radar (repetindo o primeiro item)
+metricas_fechadas = metricas + [metricas[0]]
