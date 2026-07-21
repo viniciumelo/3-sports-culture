@@ -39,3 +39,13 @@ fig.add_trace(go.Scatterpolar(
     name='Cristiano Ronaldo'
 ))
 
+# 3. Estilização do Layout do Dashboard
+fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Cristiano Ronaldo",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    ),
+    
+)
