@@ -60,4 +60,8 @@ fig.update_layout(
         ),
         bgcolor='rgb(17, 17, 17)' # Fundo escuro estilo premium analytics
     ),
+    paper_bgcolor='rgb(17, 17, 17)',
+    showlegend=False,
+    width=700,
+    height=600
 )
