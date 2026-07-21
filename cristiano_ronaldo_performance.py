@@ -28,3 +28,14 @@ valores_reais_fechados = valores_reais + [valores_reais[0]]
 # 2. Construção do Gráfico de Radar Interativo
 fig = go.Figure()
 
+fig.add_trace(go.Scatterpolar(
+    r=valores_grafico_fechados,
+    theta=metricas_fechadas,
+    fill='toself',
+    fillcolor='rgba(255, 69, 0, 0.3)',  # Tom vermelho/laranja vibrante
+    line=dict(color='orangered', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Cristiano Ronaldo'
+))
+
