@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Sprints)', 
     'Chances de Gol<br>(Gols Esperados - xG e Finalizações)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de desempenho)
+# Ferran Torres apresenta um perfil bastante equilibrado entre infiltração, velocidade e apoio à posse.
+valores_grafico = [78, 85, 82]
