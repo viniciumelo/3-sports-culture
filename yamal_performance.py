@@ -8,3 +8,6 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Sprints)', 
     'Chances de Gol<br>(Criação de Chances e xG)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+valores_grafico = [92, 86, 90]
