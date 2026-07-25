@@ -5,4 +5,6 @@ import plotly.graph_objects as go
 # enquanto os valores reais de scouts profissionais aparecem no detalhamento (hover).
 metricas = [
     'Posse de Bola<br>(Dribles e Retenção)', 
+    'Velocidade Máxima<br>(Aceleração e Sprints)', 
+    'Chances de Gol<br>(Criação de Chances e xG)'
 ]
