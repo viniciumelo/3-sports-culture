@@ -11,3 +11,9 @@ metricas = [
 
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 valores_grafico = [92, 86, 90]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta retenção (Média de 5.2 dribles tentados/jogo)", 
+]
+
