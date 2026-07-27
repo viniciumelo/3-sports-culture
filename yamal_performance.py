@@ -15,5 +15,7 @@ valores_grafico = [92, 86, 90]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Alta retenção (Média de 5.2 dribles tentados/jogo)", 
+    "33.5 km/h de pico (Aceleração rápida no 1v1)", 
+    "0.82 xG+xA (Líder em passes decisivos da ponta)"
 ]
 
