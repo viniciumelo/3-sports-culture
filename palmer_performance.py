@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Deslocamento)', 
     'Chances de Gol<br>(Gols, Assistências e xG+xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Palmer registra notas altíssimas em criação/conversão de chances e retenção, com velocidade moderada.
+valores_grafico = [90, 78, 95]
