@@ -15,5 +15,6 @@ valores_grafico = [90, 78, 95]
 
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
-    "Retenção de elite (Média de 55+ toques e controle de ritmo)",
+    "Retenção de elite (Média de 55+ toques e controle de ritmo)", 
+    "32.8 km/h de pico (Foco em leitura espacial)", 
 ]
