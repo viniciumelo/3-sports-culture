@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Palmer registra notas altíssimas em criação/conversão de chances e retenção, com velocidade moderada.
 valores_grafico = [90, 78, 95]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção de elite (Média de 55+ toques e controle de ritmo)",
+]
