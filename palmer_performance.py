@@ -4,4 +4,5 @@ import plotly.graph_objects as go
 # Os valores do gráfico estão em escala de 0 a 100 para manter a proporção visual ideal,
 # enquanto os valores reais de scouts profissionais aparecem no detalhamento (hover).
 metricas = [
+    'Posse de Bola<br>(Passe, Retenção e Controle)', 
 ]
