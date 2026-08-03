@@ -5,4 +5,5 @@ mport plotly.graph_objects as go
 # enquanto os dados de scout especializado aparecem no detalhamento (hover).
 metricas = [
     'Posse de Bola<br>(Jogo com os Pés e Saída)', 
+    'Velocidade Máxima<br>(Cobertura Fora da Área)', 
 ]
