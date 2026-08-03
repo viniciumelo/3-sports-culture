@@ -6,4 +6,5 @@ mport plotly.graph_objects as go
 metricas = [
     'Posse de Bola<br>(Jogo com os Pés e Saída)', 
     'Velocidade Máxima<br>(Cobertura Fora da Área)', 
+    'Chances de Gol<br>(Gols Evitados e Lançamentos)'
 ]
