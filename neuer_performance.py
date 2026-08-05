@@ -19,3 +19,5 @@ valores_reais = [
     "31.2 km/h de pico (Ação como líbero/sweeper)", 
     "Elite em xG Evitado (Altíssima taxa de defesas difíceis)"
 ]
+# Fechando o circuito do gráfico de radar (repetindo o primeiro item)
+metricas_fechadas = metricas + [metricas[0]]
