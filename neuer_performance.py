@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada no histórico do atleta)
 # Neuer revolucionou a posição com notas altíssimas para um goleiro em passe e saídas da área.
 valores_grafico = [92, 80, 94]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Precisão de passe de linha (Média de 88% de acerto no passe)", 
+]
