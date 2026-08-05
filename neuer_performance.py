@@ -17,4 +17,5 @@ valores_grafico = [92, 80, 94]
 valores_reais = [
     "Precisão de passe de linha (Média de 88% de acerto no passe)", 
     "31.2 km/h de pico (Ação como líbero/sweeper)", 
+    "Elite em xG Evitado (Altíssima taxa de defesas difíceis)"
 ]
