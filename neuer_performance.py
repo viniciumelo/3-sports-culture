@@ -64,3 +64,6 @@ fig.update_layout(
     width=700,
     height=600
 )
+
+# 4. Execução do script
+if __name__ == '__main__':
