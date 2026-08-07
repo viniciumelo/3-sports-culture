@@ -30,4 +30,10 @@ fig = go.Figure()
 fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
+    fill='toself',
+    fillcolor='rgba(46, 139, 87, 0.3)',  # Tom verde (referência ao Bayern e Alemanha)
+    line=dict(color='seagreen', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Manuel Neuer'
 ))
