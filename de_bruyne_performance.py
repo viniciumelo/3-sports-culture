@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Condução)', 
     'Chances de Gol<br>(Key Passes e Assistências Esperadas)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada no perfil analítico do jogador)
+# De Bruyne pontua no teto global em criação de chances e controle de posse de bola.
+valores_grafico = [94, 82, 98]
