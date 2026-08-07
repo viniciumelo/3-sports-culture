@@ -59,4 +59,8 @@ fig.update_layout(
         ),
         bgcolor='rgb(15, 22, 18)' # Fundo escuro focado no tema verde
     ),
+    paper_bgcolor='rgb(15, 22, 18)',
+    showlegend=False,
+    width=700,
+    height=600
 )
