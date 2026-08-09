@@ -17,4 +17,5 @@ valores_grafico = [94, 82, 98]
 valores_reais = [
     "Retenção de elite (Média de 70+ toques/jogo organizando o meio)", 
     "33.0 km/h de pico (Condução potente em transição)", 
+    "0.96 xA+xG (Líder em passes decisivos que quebram linhas)"
 ]
