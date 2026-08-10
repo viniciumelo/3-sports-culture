@@ -34,4 +34,7 @@ fig.add_trace(go.Scatterpolar(
     fill='toself',
     fillcolor='rgba(100, 149, 237, 0.3)',  # Tom azul cornflower (referência ao City/Bélgica)
     line=dict(color='cornflowerblue', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Kevin De Bruyne'
 ))
