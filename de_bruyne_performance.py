@@ -38,3 +38,13 @@ fig.add_trace(go.Scatterpolar(
     hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
     name='Kevin De Bruyne'
 ))
+
+# 3. Estilização do Layout do Dashboard
+fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Kevin De Bruyne",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    )
+)
