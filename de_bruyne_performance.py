@@ -27,3 +27,11 @@ valores_reais_fechados = valores_reais + [valores_reais[0]]
 
 # 2. Construção do Gráfico de Radar Interativo
 fig = go.Figure()
+
+fig.add_trace(go.Scatterpolar(
+    r=valores_grafico_fechados,
+    theta=metricas_fechadas,
+    fill='toself',
+    fillcolor='rgba(100, 149, 237, 0.3)',  # Tom azul cornflower (referência ao City/Bélgica)
+    line=dict(color='cornflowerblue', width=2),
+))
