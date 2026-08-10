@@ -46,5 +46,22 @@ fig.update_layout(
         font=dict(size=22, color='white'),
         x=0.5,
         y=0.95
-    )
+    ),
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 100],
+            gridcolor="rgba(255, 255, 255, 0.2)",
+            tickfont=dict(color="rgba(255, 255, 255, 0.7)")
+        ),
+        angularaxis=dict(
+            gridcolor="rgba(255, 255, 255, 0.3)",
+            tickfont=dict(size=12, color='white')
+        ),
+        bgcolor='rgb(16, 22, 30)' # Fundo escuro focado em dados
+    ),
+    paper_bgcolor='rgb(16, 22, 30)',
+    showlegend=False,
+    width=700,
+    height=600
 )
