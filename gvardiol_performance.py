@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Cobertura)', 
     'Chances de Gol<br>(Infiltração e Participação em Gols)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Gvardiol apresenta números altíssimos em posse e velocidade para um defensor, com ótimos índices de participação ofensiva.
+valores_grafico = [90, 86, 75]
