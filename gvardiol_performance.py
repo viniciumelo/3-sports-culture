@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Gvardiol apresenta números altíssimos em posse e velocidade para um defensor, com ótimos índices de participação ofensiva.
 valores_grafico = [90, 86, 75]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta retenção (Média de 75+ toques/jogo e construção desde a defesa)", 
+]
