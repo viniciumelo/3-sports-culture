@@ -17,4 +17,5 @@ valores_grafico = [90, 86, 75]
 valores_reais = [
     "Alta retenção (Média de 75+ toques/jogo e construção desde a defesa)", 
     "34.1 km/h de pico (Excelente recuperação e transição)", 
+    "0.35 xG+xA (Frequentes infiltrações e chute de média distância)"
 ]
