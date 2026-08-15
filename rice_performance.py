@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Cobertura)', 
     'Chances de Gol<br>(Bolas Paradas e Infiltração)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts da Premier League)
+# Declan Rice pontua no topo em retenção e recuperação da posse, com boa velocidade e ótima presença em bolas paradas/infiltrações.
+valores_grafico = [91, 84, 78]
