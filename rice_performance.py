@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts da Premier League)
 # Declan Rice pontua no topo em retenção e recuperação da posse, com boa velocidade e ótima presença em bolas paradas/infiltrações.
 valores_grafico = [91, 84, 78]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção de elite (Média de 68+ toques/jogo e 90% de acerto no passe)", 
+]
