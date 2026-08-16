@@ -16,4 +16,5 @@ valores_grafico = [91, 84, 78]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Retenção de elite (Média de 68+ toques/jogo e 90% de acerto no passe)", 
+    "33.4 km/h de pico (Intensidade em cobertura e transição)", 
 ]
