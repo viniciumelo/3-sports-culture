@@ -32,5 +32,8 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(220, 38, 38, 0.3)',  # Tom vermelho (referência ao Arsenal)
+    line=dict(color='crimson', width=2),
+    text=valores_reais_fechados,
 ))
 
