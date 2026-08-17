@@ -35,5 +35,7 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(220, 38, 38, 0.3)',  # Tom vermelho (referência ao Arsenal)
     line=dict(color='crimson', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Declan Rice'
 ))
 
