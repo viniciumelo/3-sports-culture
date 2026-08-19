@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Sprints Box-to-Box)', 
     'Chances de Gol<br>(Infiltração, xG e Assistências)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos)
+# Bellingham registra números no topo global de chegada à área e controle de meio-campo, com ótima velocidade.
+valores_grafico = [91, 85, 92]
