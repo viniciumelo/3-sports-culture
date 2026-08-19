@@ -6,4 +6,5 @@ import plotly.graph_objects as go
 metricas = [
     'Posse de Bola<br>(Retenção, Passe e Condução)', 
     'Velocidade Máxima<br>(Sprints Box-to-Box)', 
+    'Chances de Gol<br>(Infiltração, xG e Assistências)'
 ]
