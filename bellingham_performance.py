@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos)
 # Bellingham registra números no topo global de chegada à área e controle de meio-campo, com ótima velocidade.
 valores_grafico = [91, 85, 92]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção de elite (Média de 62+ toques/jogo e força sob pressão)", 
+]
