@@ -60,4 +60,8 @@ fig.update_layout(
         ),
         bgcolor='rgb(20, 22, 28)' # Fundo escuro focado em dados
     ),
+    paper_bgcolor='rgb(20, 22, 28)',
+    showlegend=False,
+    width=700,
+    height=600
 )
