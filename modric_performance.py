@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração Curta e Agilidade)', 
     'Chances de Gol<br>(Key Passes, Trivelas e xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos)
+# Modrić registra topo de elite global em retenção de posse e criação de jogadas.
+valores_grafico = [96, 72, 88]
