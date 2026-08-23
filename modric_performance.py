@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos)
 # Modrić registra topo de elite global em retenção de posse e criação de jogadas.
 valores_grafico = [96, 72, 88]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção de elite (Média de 75+ toques/jogo e 91% de acerto de passe)",
+]
