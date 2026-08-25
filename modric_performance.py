@@ -32,4 +32,9 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(255, 215, 0, 0.3)',  # Tom dourado (referência à Bola de Ouro e Real Madrid)
+    line=dict(color='gold', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Luka Modrić'
 ))
