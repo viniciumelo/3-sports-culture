@@ -8,3 +8,6 @@ metricas = [
     'Velocidade Máxima<br>(Recuperação e Cobertura)', 
     'Chances de Gol<br>(Cabeceio e Passes Progressivos)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos da Premier League)
+valores_grafico = [93, 83, 62]
