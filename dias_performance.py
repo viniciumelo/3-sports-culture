@@ -16,4 +16,5 @@ valores_grafico = [93, 83, 62]
 valores_reais = [
     "Construção de elite (Média de 85+ toques/jogo e 93% de acerto de passe)", 
     "33.1 km/h de pico (Excelente timing de desarme e recuperação)", 
+    "0.18 xG+xA (Presença em escanteios e lançamento longo)"
 ]
