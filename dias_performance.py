@@ -22,3 +22,4 @@ valores_reais = [
 # Fechando o circuito do gráfico de radar (repetindo o primeiro item)
 metricas_fechadas = metricas + [metricas[0]]
 valores_grafico_fechados = valores_grafico + [valores_grafico[0]]
+valores_reais_fechados = valores_reais + [valores_reais[0]]
