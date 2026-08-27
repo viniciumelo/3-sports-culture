@@ -11,3 +11,8 @@ metricas = [
 
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados analíticos da Premier League)
 valores_grafico = [93, 83, 62]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Construção de elite (Média de 85+ toques/jogo e 93% de acerto de passe)", 
+]
