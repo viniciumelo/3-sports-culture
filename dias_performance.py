@@ -31,5 +31,10 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(100, 149, 237, 0.3)',  # Tom azul celeste (referência ao City e Portugal)
+    line=dict(color='royalblue', width=2),
+    text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Rúben Dias'
 ))
 
