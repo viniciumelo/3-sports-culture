@@ -59,4 +59,8 @@ fig.update_layout(
         ),
         bgcolor='rgb(16, 20, 26)' # Fundo escuro estilo dashboard profissional
     ),
+    paper_bgcolor='rgb(16, 20, 26)',
+    showlegend=False,
+    width=700,
+    height=600
 )
