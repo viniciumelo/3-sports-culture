@@ -38,3 +38,12 @@ fig.add_trace(go.Scatterpolar(
     name='Rúben Dias'
 ))
 
+# 3. Estilização do Layout do Dashboard
+fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Rúben Dias",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    ),
+)
