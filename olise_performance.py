@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Sprints)', 
     'Chances de Gol<br>(Key Passes, Bolas Paradas e xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Olise registra números altíssimos em criação de chances e drible curto.
+valores_grafico = [88, 85, 93]
