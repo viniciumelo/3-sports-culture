@@ -17,4 +17,5 @@ valores_grafico = [88, 85, 93]
 valores_reais = [
     "Alta retenção (Média de 4.8 dribles/jogo e condução segura)", 
     "33.6 km/h de pico (Aceleração rápida na ponta)", 
+    "0.85 xG+xA (Líder em assistências esperadas e bolas paradas)"
 ]
