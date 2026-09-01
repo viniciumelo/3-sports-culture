@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Olise registra números altíssimos em criação de chances e drible curto.
 valores_grafico = [88, 85, 93]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta retenção (Média de 4.8 dribles/jogo e condução segura)", 
+]
