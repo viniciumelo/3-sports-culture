@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Recomposição e Sprints)', 
     'Chances de Gol<br>(Cruzamentos e Key Passes)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Cucurella pontua alto em presença de jogo/posse e intensidade física, com boa criação pelo corredor.
+valores_grafico = [85, 84, 72]
