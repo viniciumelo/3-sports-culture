@@ -17,4 +17,5 @@ valores_grafico = [85, 84, 72]
 valores_reais = [
     "Boa retenção (Média de 58+ toques/jogo e alta taxa de desarmes)", 
     "33.2 km/h de pico (Intensidade em transições ofensivas e defensivas)", 
+    "0.32 xG+xA (Apoio constante com cruzamentos e sobreposições)"
 ]
