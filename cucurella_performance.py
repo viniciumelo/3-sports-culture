@@ -16,4 +16,5 @@ valores_grafico = [85, 84, 72]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Boa retenção (Média de 58+ toques/jogo e alta taxa de desarmes)", 
+    "33.2 km/h de pico (Intensidade em transições ofensivas e defensivas)", 
 ]
