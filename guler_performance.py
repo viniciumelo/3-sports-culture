@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Agilidade e Aceleração)', 
     'Chances de Gol<br>(Key Passes, Finalização e xG+xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Arda Güler registra números de destaque em criação de chances e controle técnico sob pressão.
+valores_grafico = [89, 81, 91]
