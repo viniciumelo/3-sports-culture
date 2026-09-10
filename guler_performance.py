@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Arda Güler registra números de destaque em criação de chances e controle técnico sob pressão.
 valores_grafico = [89, 81, 91]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta retenção (Média de 48+ toques/jogo e visão sob pressão)", 
+]
