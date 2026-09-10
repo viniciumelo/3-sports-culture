@@ -17,4 +17,5 @@ valores_grafico = [89, 81, 91]
 valores_reais = [
     "Alta retenção (Média de 48+ toques/jogo e visão sob pressão)", 
     "32.9 km/h de pico (Aceleração rápida e mudança de direção)", 
+    "0.82 xG+xA (Eficiência alta em passes decisivos e chutes da entrada da área)"
 ]
