@@ -47,4 +47,12 @@ fig.update_layout(
         x=0.5,
         y=0.95
     ),
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 100],
+            gridcolor="rgba(255, 255, 255, 0.2)",
+            tickfont=dict(color="rgba(255, 255, 255, 0.7)")
+        ),
+    ),
 )
