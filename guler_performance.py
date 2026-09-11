@@ -32,4 +32,7 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(255, 215, 0, 0.3)',  # Tom dourado (referência ao Real Madrid)
+    line=dict(color='gold', width=2),
+    text=valores_reais_fechados,
 ))
