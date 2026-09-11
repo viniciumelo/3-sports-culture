@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(255, 215, 0, 0.3)',  # Tom dourado (referência ao Real Madrid)
     line=dict(color='gold', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Arda Güler'
 ))
