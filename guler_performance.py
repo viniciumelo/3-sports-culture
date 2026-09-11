@@ -54,5 +54,10 @@ fig.update_layout(
             gridcolor="rgba(255, 255, 255, 0.2)",
             tickfont=dict(color="rgba(255, 255, 255, 0.7)")
         ),
+        angularaxis=dict(
+            gridcolor="rgba(255, 255, 255, 0.3)",
+            tickfont=dict(size=12, color='white')
+        ),
+        bgcolor='rgb(18, 20, 26)' # Fundo escuro estilo dashboard profissional
     ),
 )
