@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Aceleração e Sprints Explosivos)', 
     'Chances de Gol<br>(Cruzamentos, Key Passes e xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Doku registra nota máxima em aceleração/velocidade e números altíssimos em retenção por drible.
+valores_grafico = [94, 98, 81]
