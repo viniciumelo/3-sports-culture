@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Doku registra nota máxima em aceleração/velocidade e números altíssimos em retenção por drible.
 valores_grafico = [94, 98, 81]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Retenção por drible (Média de 6.8 dribles certos/jogo e 1v1 dominante)", 
+]
