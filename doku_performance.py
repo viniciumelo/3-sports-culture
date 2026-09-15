@@ -16,4 +16,5 @@ valores_grafico = [94, 98, 81]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Retenção por drible (Média de 6.8 dribles certos/jogo e 1v1 dominante)", 
+    "35.3 km/h de pico (Explosão e aceleração de elite)", 
 ]
