@@ -17,4 +17,5 @@ valores_grafico = [94, 98, 81]
 valores_reais = [
     "Retenção por drible (Média de 6.8 dribles certos/jogo e 1v1 dominante)", 
     "35.3 km/h de pico (Explosão e aceleração de elite)", 
+    "0.65 xG+xA (Volume alto de assistências e passes para a grande área)"
 ]
