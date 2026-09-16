@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(135, 206, 235, 0.3)',  # Tom azul celeste (referência ao Man City / Bélgica)
     line=dict(color='deepskyblue', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Jérémy Doku'
 ))
