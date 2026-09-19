@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Cobertura e Recomposição)', 
     'Chances de Gol<br>(Lançamentos e Chutes de Longe)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Tchouaméni registra notas altíssimas em passe/posse e excelente cobertura física no meio.
+valores_grafico = [92, 83, 70]
