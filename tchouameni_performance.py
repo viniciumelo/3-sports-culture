@@ -17,4 +17,5 @@ valores_grafico = [92, 83, 70]
 valores_reais = [
     "Excelente retenção (Média de 90%+ de precisão nos passes e combate no meio)", 
     "33.1 km/h de pico (Grande raio de ação e recuperação defensiva)", 
+    "0.28 xG+xA (Contribuição com passes verticais e finalizações de média distância)"
 ]
