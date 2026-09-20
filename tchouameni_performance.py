@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Tchouaméni registra notas altíssimas em passe/posse e excelente cobertura física no meio.
 valores_grafico = [92, 83, 70]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Excelente retenção (Média de 90%+ de precisão nos passes e combate no meio)", 
+]
