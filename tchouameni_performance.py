@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(65, 105, 225, 0.3)',  # Tom azul royal/França
     line=dict(color='royalblue', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Aurélien Tchouaméni'
 ))
