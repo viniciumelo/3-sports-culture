@@ -32,4 +32,7 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(65, 105, 225, 0.3)',  # Tom azul royal/França
+    line=dict(color='royalblue', width=2),
+    text=valores_reais_fechados,
 ))
