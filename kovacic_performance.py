@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Agilidade e Transição em Condução)', 
     'Chances de Gol<br>(Passes Decisivos e Construção)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Kovačić pontua extremamente alto em retenção e condução de posse sob pressão.
+valores_grafico = [93, 84, 68]
