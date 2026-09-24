@@ -5,4 +5,5 @@ import plotly.graph_objects as go
 # enquanto os dados de scout especializado aparecem no detalhamento (hover).
 metricas = [
     'Posse de Bola<br>(Condução Progressiva e Retenção)', 
+    'Velocidade Máxima<br>(Agilidade e Transição em Condução)', 
 ]
