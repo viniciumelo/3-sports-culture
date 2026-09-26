@@ -32,4 +32,7 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(0, 102, 204, 0.3)',  # Tom azul (referência à Croácia / Manchester City)
+    line=dict(color='dodgerblue', width=2),
+    text=valores_reais_fechados,
 ))
