@@ -17,4 +17,5 @@ valores_grafico = [93, 84, 68]
 valores_reais = [
     "Maestria na retenção (Média de 90%+ de acerto no passe e alta progressão com bola)", 
     "32.8 km/h de pico (Velocidade dinâmica de transição e quebra de linhas)", 
+    "0.35 xG+xA (Participação na criação e pré-assistências no último terço)"
 ]
