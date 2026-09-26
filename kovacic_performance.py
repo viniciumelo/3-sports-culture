@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Kovačić pontua extremamente alto em retenção e condução de posse sob pressão.
 valores_grafico = [93, 84, 68]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Maestria na retenção (Média de 90%+ de acerto no passe e alta progressão com bola)", 
+]
