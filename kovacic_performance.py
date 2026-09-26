@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(0, 102, 204, 0.3)',  # Tom azul (referência à Croácia / Manchester City)
     line=dict(color='dodgerblue', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Mateo Kovačić'
 ))
