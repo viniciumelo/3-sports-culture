@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Deslocamento Tático e Cobertura)', 
     'Chances de Gol<br>(Infiltrações, Cabeceios e xG+xA)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Merino pontua muito alto em duelos/posse e chegada na área, com velocidade tática sólida.
+valores_grafico = [88, 77, 86]
