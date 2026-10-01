@@ -16,4 +16,5 @@ valores_grafico = [88, 77, 86]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Alta retenção (Média de 55+ toques/jogo e domínio em duelos físicos)", 
+    "31.8 km/h de pico (Velocidade sustentada para transição e recomposição)", 
 ]
