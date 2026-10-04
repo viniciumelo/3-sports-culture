@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Saídas Explosivas e 1v1)', 
     'Chances de Gol<br>(Prevenção de Gols e xG Prevented)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada no perfil e scout do atleta)
+# Urbig é avaliado como um jovem goleiro com excelente técnica com os pés e ótima agilidade.
+valores_grafico = [87, 82, 89]
