@@ -17,4 +17,5 @@ valores_grafico = [87, 82, 89]
 valores_reais = [
     "Alta precisão com os pés (Média de 84%+ de acerto na distribuição)", 
     "31.5 km/h de pico (Agilidade e tempo de reação em saídas rápidas)", 
+    "Alto índice de xG Evitado (Segurança em defesas de finalizações difíceis)"
 ]
