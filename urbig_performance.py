@@ -16,4 +16,5 @@ valores_grafico = [87, 82, 89]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Alta precisão com os pés (Média de 84%+ de acerto na distribuição)", 
+    "31.5 km/h de pico (Agilidade e tempo de reação em saídas rápidas)", 
 ]
