@@ -12,3 +12,8 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada no perfil e scout do atleta)
 # Urbig é avaliado como um jovem goleiro com excelente técnica com os pés e ótima agilidade.
 valores_grafico = [87, 82, 89]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+    "Alta precisão com os pés (Média de 84%+ de acerto na distribuição)", 
+]
