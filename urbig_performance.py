@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(230, 180, 30, 0.3)',  # Tom amarelo/âmbar (destaque para goleiros jovens de alto potencial)
     line=dict(color='gold', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Jonas Urbig'
 ))
