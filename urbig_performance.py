@@ -32,4 +32,7 @@ fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
     theta=metricas_fechadas,
     fill='toself',
+    fillcolor='rgba(230, 180, 30, 0.3)',  # Tom amarelo/âmbar (destaque para goleiros jovens de alto potencial)
+    line=dict(color='gold', width=2),
+    text=valores_reais_fechados,
 ))
