@@ -41,4 +41,10 @@ fig.add_trace(go.Scatterpolar(
 
 # 3. Estilização do Layout do Dashboard
 fig.update_layout(
+    title=dict(
+        text="Análise de Desempenho Médio - Jonas Urbig",
+        font=dict(size=22, color='white'),
+        x=0.5,
+        y=0.95
+    ),
 )
