@@ -38,3 +38,7 @@ fig.add_trace(go.Scatterpolar(
     hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
     name='Jonas Urbig'
 ))
+
+# 3. Estilização do Layout do Dashboard
+fig.update_layout(
+)
