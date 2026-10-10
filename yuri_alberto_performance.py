@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Arrancadas e Rupturas em Profundidade)', 
     'Chances de Gol<br>(Finalizações, Infiltrações e xG)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
+# Yuri Alberto pontua muito bem em velocidade de transição ofensiva e volume de finalização.
+valores_grafico = [76, 89, 85]
