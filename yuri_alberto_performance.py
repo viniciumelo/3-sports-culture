@@ -16,4 +16,5 @@ valores_grafico = [76, 89, 85]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Participação direta (Média de toques sob pressão e trabalho de pivô)", 
+    "33.8 km/h de pico (Excelente explosão em diagonais e contrataques)", 
 ]
