@@ -17,4 +17,5 @@ valores_grafico = [76, 89, 85]
 valores_reais = [
     "Participação direta (Média de toques sob pressão e trabalho de pivô)", 
     "33.8 km/h de pico (Excelente explosão em diagonais e contrataques)", 
+    "0.62 xG por jogo (Alto volume de finalizações e presença constante na área)"
 ]
