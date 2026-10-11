@@ -15,4 +15,5 @@ valores_grafico = [76, 89, 85]
 
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
+    "Participação direta (Média de toques sob pressão e trabalho de pivô)", 
 ]
