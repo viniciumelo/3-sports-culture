@@ -12,3 +12,7 @@ metricas = [
 # Notas visuais de desempenho (Escala de 0 a 100 baseada em dados de scouts)
 # Yuri Alberto pontua muito bem em velocidade de transição ofensiva e volume de finalização.
 valores_grafico = [76, 89, 85]
+
+# Dados reais detalhados que aparecem ao passar o mouse (hover)
+valores_reais = [
+]
