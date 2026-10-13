@@ -59,9 +59,13 @@ fig.update_layout(
             tickfont=dict(size=12, color='white')
         ),
         bgcolor='rgb(16, 20, 28)' # Fundo escuro estilo dashboard profissional
-    )
+    ),
     paper_bgcolor='rgb(16, 20, 28)',
     showlegend=False,
     width=700,
     height=600
 )
+
+# 4. Execução do script
+if __name__ == '__main__':
+    print("Gerando gráfico de desempenho do Yuri Alberto...")
