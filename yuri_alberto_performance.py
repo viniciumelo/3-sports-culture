@@ -35,4 +35,6 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(0, 0, 0, 0.4)',  # Tom preto/branco clássico (referência ao Corinthians)
     line=dict(color='white', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Yuri Alberto'
 ))
