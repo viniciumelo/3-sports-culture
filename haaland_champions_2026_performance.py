@@ -16,4 +16,5 @@ valores_grafico = [74, 95, 99]
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
     "Retenção objetiva (Foco em poucos toques, proteção de corpo e tabelas rápidas)", 
+    "35.8 km/h de pico (Velocidade devastadora em contra-ataques na Europa)", 
 ]
