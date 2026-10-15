@@ -19,3 +19,6 @@ valores_reais = [
     "35.8 km/h de pico (Velocidade devastadora em contra-ataques na Europa)", 
     "1.34 xG por jogo (Líder em volume de finalizações e conversão letal na Champions)"
 ]
+
+# Fechando o circuito do gráfico de radar (repetindo o primeiro item)
+metricas_fechadas = metricas + [metricas[0]]
