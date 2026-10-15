@@ -8,3 +8,7 @@ metricas = [
     'Velocidade Máxima<br>(Arrancadas em Transição e Pique)', 
     'Chances de Gol<br>(Finalizações, Conversão e xG na UCL)'
 ]
+
+# Notas visuais de desempenho (Escala de 0 a 100 baseada em dados da Champions League 2026)
+# Haaland atinge pontuação máxima em conversão de chances e destaque físico em velocidade.
+valores_grafico = [74, 95, 99]
