@@ -17,4 +17,5 @@ valores_grafico = [74, 95, 99]
 valores_reais = [
     "Retenção objetiva (Foco em poucos toques, proteção de corpo e tabelas rápidas)", 
     "35.8 km/h de pico (Velocidade devastadora em contra-ataques na Europa)", 
+    "1.34 xG por jogo (Líder em volume de finalizações e conversão letal na Champions)"
 ]
