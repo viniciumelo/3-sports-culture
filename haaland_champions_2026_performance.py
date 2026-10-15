@@ -15,4 +15,5 @@ valores_grafico = [74, 95, 99]
 
 # Dados reais detalhados que aparecem ao passar o mouse (hover)
 valores_reais = [
+    "Retenção objetiva (Foco em poucos toques, proteção de corpo e tabelas rápidas)", 
 ]
