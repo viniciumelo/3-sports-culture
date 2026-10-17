@@ -28,3 +28,6 @@ valores_reais_fechados = valores_reais + [valores_reais[0]]
 # 2. Construção do Gráfico de Radar Interativo
 fig = go.Figure()
 
+fig.add_trace(go.Scatterpolar(
+))
+
