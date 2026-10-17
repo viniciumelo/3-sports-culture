@@ -29,5 +29,7 @@ valores_reais_fechados = valores_reais + [valores_reais[0]]
 fig = go.Figure()
 
 fig.add_trace(go.Scatterpolar(
+    r=valores_grafico_fechados,
+    theta=metricas_fechadas, 
 ))
 
