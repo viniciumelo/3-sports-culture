@@ -24,3 +24,7 @@ valores_reais = [
 metricas_fechadas = metricas + [metricas[0]]
 valores_grafico_fechados = valores_grafico + [valores_grafico[0]]
 valores_reais_fechados = valores_reais + [valores_reais[0]]
+
+# 2. Construção do Gráfico de Radar Interativo
+fig = go.Figure()
+
