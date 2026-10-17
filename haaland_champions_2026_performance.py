@@ -30,6 +30,8 @@ fig = go.Figure()
 
 fig.add_trace(go.Scatterpolar(
     r=valores_grafico_fechados,
-    theta=metricas_fechadas, 
+    theta=metricas_fechadas,
+    fill='toself',
+    fillcolor='rgba(0, 204, 255, 0.3)', 
 ))
 
