@@ -35,5 +35,7 @@ fig.add_trace(go.Scatterpolar(
     fillcolor='rgba(0, 204, 255, 0.3)',  # Tom azul celeste (referência ao Manchester City)
     line=dict(color='cyan', width=2),
     text=valores_reais_fechados,
+    hovertemplate="<b>%{theta}</b><br>Nível Geral: %{r}/100<br>Dado Real: %{text}<extra></extra>",
+    name='Erling Haaland (UCL 2026)'
 ))
 
